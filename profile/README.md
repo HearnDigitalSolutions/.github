@@ -2,8 +2,8 @@
 
 # Hearn Digital Solutions Open Source
 
-With projects such as [AllTheManga](https://allthemanga.com/) and [Dogger](https://dogger.app/), Hearn Digital Solutions empowers people and creates economic opportunity.
+With projects such as [All The Manga](https://www.allthemanga.com/), [СобакаАпп (Sobaka App)](https://sobaka.app/), and [АвтоШколаСофтъ (Automobile School Software)](https://www.avtoschoolsoft.ru), Hearn Digital Solutions empowers people and creates economic opportunity.
 
-We publish open source code to share technical artifacts with the broader community and publish [a tech blog](https://hearndigitalsolutions.co.uk/blog) to share our experiences.
+We publish open source code to share technical artifacts with the broader community, and publish [a tech blog](https://www.hearndigitalsolutions.co.uk/blog) to share our experiences.
 
-If you're interested in working with Hearn Digital Soluitions and working with open source, check out [our open source jobs](https://hearndigitalsolutions.co.uk/jobs).
+If you're interested in working with Hearn Digital Soluitions and working with open source projects, check out [our open source jobs](https://hearndigitalsolutions.co.uk/jobs).
