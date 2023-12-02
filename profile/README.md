@@ -2,7 +2,7 @@
 
 # Hearn Digital Solutions Open Source
 
-With projects such as [All The Manga](https://www.allthemanga.com/), [СобакаАпп (Sobaka App)](https://sobaka.app/), and [АвтоШколаСофтъ (Automobile School Software)](https://www.avtoschoolsoft.ru), Hearn Digital Solutions empowers people and creates economic opportunity.
+With projects such as [All The Manga](https://www.allthemanga.com/), Hearn Digital Solutions empowers people and creates economic opportunity.
 
 We publish open source code to share technical artifacts with the broader community, and publish [a tech blog](https://www.hearndigitalsolutions.co.uk/blog) to share our experiences.
 
