@@ -1,4 +1,4 @@
-![Design. Build. Succeed. Hearn Digital Solutions.](https://github.com/HearnDigitalSolutions/.github/blob/main/header-light.png?raw=true)
+![Design. Build. Succeed. Hearn Digital Solutions.](https://raw.githubusercontent.com/HearnDigitalSolutions/.github/main/Facebook%20Banner.png)
 
 # Hearn Digital Solutions Open Source
 
